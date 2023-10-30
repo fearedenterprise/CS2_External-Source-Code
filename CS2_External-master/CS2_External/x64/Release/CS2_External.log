@@ -1,0 +1,26 @@
+﻿  Cheats.cpp
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Utils\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Utils\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\AimBot.hpp(31,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\AimBot.hpp(33,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\AimBot.hpp(34,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\AimBot.hpp(35,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\AimBot.hpp(43,29): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(13,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(36,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(54,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(71,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(72,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(74,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(114,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(116,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(117,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(118,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(218,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(250,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(302,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Render.hpp(334,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Cheats.cpp(334,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\CS2_External-master\CS2_External-master\CS2_External\Cheats.cpp(334,26): warning C4244: 'argument': conversion from 'DWORD64' to 'DWORD', possible loss of data
+  imgui_impl_dx11.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'OS-ImGui\imgui\imgui_impl_dx11.cpp': No such file or directory
